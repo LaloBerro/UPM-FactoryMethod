@@ -1,6 +1,6 @@
 {
   "name": "com.tgl.factorymethod",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "TGL - FactoryMethod",
   "description": "",
   "unity": "2020.3",
@@ -8,8 +8,7 @@
   "documentationUrl": "",
   "changelogUrl": "",
   "licensesUrl": "",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": {
     "name": "TGL",
     "email": "",
