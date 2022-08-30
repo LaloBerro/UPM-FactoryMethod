@@ -23,5 +23,10 @@ namespace FactoryMethod
 
             return _products[id];
         }
+
+        public bool IsContained(IdType id)
+        {
+            return _products.ContainsKey(id);
+        }
     }
 }
