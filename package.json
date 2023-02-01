@@ -1,7 +1,7 @@
 {
-  "name": "com.tgl.factorymethod",
+  "name": "com.lalo.factorymethod",
   "version": "1.2.0",
-  "displayName": "TGL - FactoryMethod",
+  "displayName": "FactoryMethod",
   "unity": "2020.3",
   "unityRelease": "0b5",
   "documentationUrl": "",
@@ -9,7 +9,7 @@
   "licensesUrl": "",
   "keywords": [],
   "author": {
-    "name": "TGL",
+    "name": "Lalo",
     "email": "",
     "url": ""
   },
